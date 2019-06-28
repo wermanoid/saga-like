@@ -1,0 +1,5 @@
+--exit
+--require ts-node/register
+--require tsconfig-paths/register
+--require ./scripts/test-setup.ts
+--ui bdd
